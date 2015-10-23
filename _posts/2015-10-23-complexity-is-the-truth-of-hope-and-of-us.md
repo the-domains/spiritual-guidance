@@ -1,24 +1,24 @@
 ---
 inFeed: true
-hasPage: false
+hasPage: true
 inNav: false
-isBasedOnUrl: 'http://sebpearce.com/bullshit/'
 inLanguage: null
 starred: false
 keywords: []
 description: 'Complexity is the truth of hope, and of us.  By deepening, we grow. We vibrate, we heal, we are reborn.  To go along the quest is to become one with it.  This c'
-datePublished: '2015-10-23T12:20:21.785Z'
-dateModified: '2015-10-23T12:19:52.106Z'
+datePublished: '2015-10-23T12:51:16.694Z'
+dateModified: '2015-10-23T12:51:12.887Z'
 author: []
 title: 'Complexity is the truth of hope, and of us'
+sourcePath: _posts/2015-10-23-complexity-is-the-truth-of-hope-and-of-us.md
+published: true
 authors: []
 publisher:
   name: sebpearce.com
   domain: sebpearce.com
   url: null
   favicon: null
-sourcePath: _posts/2015-10-23-complexity-is-the-truth-of-hope-and-of-us.md
-published: true
+url: complexity-is-the-truth-of-hope-and-of-us/index.html
 _context: 'http://schema.org'
 _type: Article
 
