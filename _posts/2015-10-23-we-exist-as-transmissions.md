@@ -1,24 +1,24 @@
 ---
 inFeed: true
-hasPage: false
+hasPage: true
 inNav: false
-isBasedOnUrl: 'http://sebpearce.com/bullshit/'
 inLanguage: null
 starred: false
 keywords: []
 description: 'We exist as transmissions.  Empathy is a constant. The world is buzzing with a resonance cascade.  You must take a stand against stagnation.  By maturing, we li'
-datePublished: '2015-10-23T12:12:11.719Z'
-dateModified: '2015-10-23T12:11:57.736Z'
+datePublished: '2015-10-23T12:50:14.858Z'
+dateModified: '2015-10-23T12:50:10.746Z'
 author: []
 title: We exist as transmissions
+sourcePath: _posts/2015-10-23-we-exist-as-transmissions.md
+published: true
 authors: []
 publisher:
   name: sebpearce.com
   domain: sebpearce.com
   url: null
   favicon: null
-sourcePath: _posts/2015-10-23-we-exist-as-transmissions.md
-published: true
+url: we-exist-as-transmissions/index.html
 _context: 'http://schema.org'
 _type: Article
 
