@@ -1,24 +1,24 @@
 ---
 inFeed: true
-hasPage: false
+hasPage: true
 inNav: false
-isBasedOnUrl: 'http://sebpearce.com/bullshit/'
 inLanguage: null
 starred: false
 keywords: []
 description: 'We believe, we exist, we are reborn.  Chi is the richness of balance, and of us. To roam the myth is to become one with it.  Nothing is impossible.  Yes, it is '
-datePublished: '2015-10-23T12:13:56.474Z'
-dateModified: '2015-10-23T12:13:43.078Z'
+datePublished: '2015-10-23T12:50:33.313Z'
+dateModified: '2015-10-23T12:50:29.545Z'
 author: []
 title: 'We believe, we exist, we are reborn'
+sourcePath: _posts/2015-10-23-we-believe-we-exist-we-are-reborn.md
+published: true
 authors: []
 publisher:
   name: sebpearce.com
   domain: sebpearce.com
   url: null
   favicon: null
-sourcePath: _posts/2015-10-23-we-believe-we-exist-we-are-reborn.md
-published: true
+url: we-believe-we-exist-we-are-reborn/index.html
 _context: 'http://schema.org'
 _type: Article
 
