@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'We dream, we believe, we are reborn.  Understanding is a constant. Chi is the healing of rejuvenation, and of us.  Without fulfillment, one cannot dream.  We ar'
-datePublished: '2015-10-23T22:02:33.779Z'
-dateModified: '2015-10-23T22:02:23.358Z'
+datePublished: '2015-10-23T22:06:37.746Z'
+dateModified: '2015-10-23T22:06:33.955Z'
 author: []
-title: ''
+title: 'We dream, we believe, we are reborn'
+sourcePath: _posts/2015-10-23-we-dream-we-believe-we-are-reborn-understanding-is-a-con.md
+published: true
 authors: []
 publisher:
   name: sebpearce.com
   domain: sebpearce.com
   url: null
   favicon: null
-sourcePath: _posts/2015-10-23-we-dream-we-believe-we-are-reborn-understanding-is-a-con.md
-published: true
 url: we-dream-we-believe-we-are-reborn-understanding-is-a-con/index.html
 _context: 'http://schema.org'
 _type: Article
