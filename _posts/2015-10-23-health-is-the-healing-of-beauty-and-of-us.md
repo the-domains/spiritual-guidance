@@ -1,24 +1,24 @@
 ---
 inFeed: true
-hasPage: false
+hasPage: true
 inNav: false
-isBasedOnUrl: 'http://sebpearce.com/bullshit/'
 inLanguage: null
 starred: false
 keywords: []
 description: 'Health is the healing of beauty, and of us.  The goal of atomic ionization is to plant the seeds of healing rather than discontinuity. To follow the circuit is '
-datePublished: '2015-10-23T12:17:08.659Z'
-dateModified: '2015-10-23T12:16:40.626Z'
+datePublished: '2015-10-23T12:50:56.466Z'
+dateModified: '2015-10-23T12:50:50.660Z'
 author: []
 title: 'Health is the healing of beauty, and of us'
+sourcePath: _posts/2015-10-23-health-is-the-healing-of-beauty-and-of-us.md
+published: true
 authors: []
 publisher:
   name: sebpearce.com
   domain: sebpearce.com
   url: null
   favicon: null
-sourcePath: _posts/2015-10-23-health-is-the-healing-of-beauty-and-of-us.md
-published: true
+url: health-is-the-healing-of-beauty-and-of-us/index.html
 _context: 'http://schema.org'
 _type: Article
 
