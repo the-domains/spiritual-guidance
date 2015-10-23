@@ -1,24 +1,24 @@
 ---
 inFeed: true
-hasPage: false
+hasPage: true
 inNav: false
-isBasedOnUrl: 'http://sebpearce.com/bullshit/'
 inLanguage: null
 starred: false
 keywords: []
 description: 'Nothing is impossible.  Intuition is the healing of flow, and of us. Consciousness consists of frequencies of quantum energy. “Quantum” means an ennobling of th'
-datePublished: '2015-10-23T12:09:34.014Z'
-dateModified: '2015-10-23T12:09:19.479Z'
+datePublished: '2015-10-23T12:50:00.069Z'
+dateModified: '2015-10-23T12:49:55.521Z'
 author: []
 title: Nothing is impossible
+sourcePath: _posts/2015-10-23-nothing-is-impossible.md
+published: true
 authors: []
 publisher:
   name: sebpearce.com
   domain: sebpearce.com
   url: null
   favicon: null
-sourcePath: _posts/2015-10-23-nothing-is-impossible.md
-published: true
+url: nothing-is-impossible/index.html
 _context: 'http://schema.org'
 _type: Article
 
