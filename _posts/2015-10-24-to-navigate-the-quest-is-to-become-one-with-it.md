@@ -1,24 +1,24 @@
 ---
 inFeed: true
-hasPage: false
+hasPage: true
 inNav: false
-isBasedOnUrl: 'http://sebpearce.com/bullshit/'
 inLanguage: null
 starred: false
 keywords: []
 description: 'To navigate the quest is to become one with it.  You and I are pilgrims of the biosphere. By ennobling, we exist.  The dreamscape is calling to you via sonar en'
-datePublished: '2015-10-24T21:20:57.185Z'
-dateModified: '2015-10-24T21:18:53.230Z'
+datePublished: '2015-10-26T12:31:49.727Z'
+dateModified: '2015-10-26T12:31:46.341Z'
 author: []
 title: To navigate the quest is to become one with it
+sourcePath: _posts/2015-10-24-to-navigate-the-quest-is-to-become-one-with-it.md
+published: true
 authors: []
 publisher:
   name: sebpearce.com
   domain: sebpearce.com
   url: null
   favicon: null
-sourcePath: _posts/2015-10-24-to-navigate-the-quest-is-to-become-one-with-it.md
-published: true
+url: to-navigate-the-quest-is-to-become-one-with-it/index.html
 _context: 'http://schema.org'
 _type: Article
 
