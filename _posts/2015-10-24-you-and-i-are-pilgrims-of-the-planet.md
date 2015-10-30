@@ -1,24 +1,24 @@
 ---
 inFeed: true
-hasPage: false
+hasPage: true
 inNav: false
-isBasedOnUrl: 'http://sebpearce.com/bullshit/'
 inLanguage: null
 starred: false
 keywords: []
 description: You and I are pilgrims of the planet.  The multiverse is bursting with meridians. Nothing is impossible.  We are in the midst of an internal refining of synchro
-datePublished: '2015-10-24T21:20:57.254Z'
-dateModified: '2015-10-24T21:20:16.439Z'
+datePublished: '2015-10-30T10:53:52.718Z'
+dateModified: '2015-10-30T10:53:48.875Z'
 author: []
 title: You and I are pilgrims of the planet
+sourcePath: _posts/2015-10-24-you-and-i-are-pilgrims-of-the-planet.md
+published: true
 authors: []
 publisher:
   name: sebpearce.com
   domain: sebpearce.com
   url: null
   favicon: null
-sourcePath: _posts/2015-10-24-you-and-i-are-pilgrims-of-the-planet.md
-published: true
+url: you-and-i-are-pilgrims-of-the-planet/index.html
 _context: 'http://schema.org'
 _type: Article
 
