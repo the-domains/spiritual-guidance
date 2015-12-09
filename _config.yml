@@ -1,20 +1,4 @@
-name: Spiritual Guidance
-favicon: null
-layout_spectrum: 0.31211
-typography_spectrum: 0.09112
-title: Guiding You To A Higher Consciousness
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+analytics: {}
 color:
   brandColors:
     - '#141510'
@@ -22,8 +6,13 @@ color:
     - '#51565a'
     - '#85a737'
     - '#b5d75e'
-  brandStrength: 0.25
+  brandStrength: 0.670045
   lightness: 0.375
-  saturation: 0.5
   rhythmicContrast: 1
+  saturation: 0.5
+cta: {}
+layout_spectrum: 0.213963
+name: Spiritual Guidance
+opengraph: {}
 purpose: []
+typography_spectrum: 0
