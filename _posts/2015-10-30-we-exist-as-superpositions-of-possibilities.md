@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'We exist as superpositions of possibilities.  We dream, we grow, we are reborn. Purpose is a constant.  Only a prophet of the solar system may harmonize this re'
-datePublished: '2015-10-30T10:54:13.776Z'
-dateModified: '2015-10-30T10:51:59.771Z'
+datePublished: '2015-12-25T12:44:59.993Z'
+dateModified: '2015-11-22T12:52:23.658Z'
 author: []
 title: We exist as superpositions of possibilities
+sourcePath: _posts/2015-10-30-we-exist-as-superpositions-of-possibilities.md
+published: true
 authors: []
 publisher:
   name: sebpearce.com
   domain: sebpearce.com
   url: null
   favicon: null
-sourcePath: _posts/2015-10-30-we-exist-as-superpositions-of-possibilities.md
-published: true
 url: we-exist-as-superpositions-of-possibilities/index.html
 _context: 'http://schema.org'
 _type: Article
